@@ -1,10 +1,10 @@
 # calendar
 Programming Languages Project
 
-Names: Alfonso, Castanos, Majid Aziz, & Matthew Schwab
-/ID: 2283681, 2283708, 
-/Emails: aziz112@mail.chapman.edu, casta145@mail.chapman.edu, 
-/Project: Swift Program
+Names: Alfonso, Castanos, Majid Aziz, & Matthew Schwab 
+ID: 2283681, 2283708,  
+Emails: aziz112@mail.chapman.edu, casta145@mail.chapman.edu,  
+Project: Swift Program
 
 Description: Calendar program that lets you create events and view them. Also able to look ahead on the 
 calendar into future and past years. Accounts for leap years and sets calendar dates in the appropriate positions. 
