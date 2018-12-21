@@ -10,12 +10,10 @@ Description: Calendar program that lets you create events and view them. Also ab
 calendar into future and past years. Accounts for leap years and sets calendar dates in the appropriate positions. 
 
 How to Start: Need to run program on an Apple computer/ IOS running device. Xcode is preferred as it is the developer 
-program used to create this program. Once Xcode is downloaded, open calendar file, make sure on the top left hand corner 
-next to calendar you set the device to iPhone 8. Press the play button and should compile and run on emulator that is 
-generated on your IOS desktop. 
+program used to create this program. Once Xcode is downloaded, clone file to desktop, open xcode, import calendar file, once opened, make sure on the top left hand corner next to the project name (calendar) you set the device to iPhone 8. Press the play button and should compile and run on emulator that is generated on your IOS desktop. 
 
 Important to Note: In its current state, you are allowed to switch through the months and create events, 
 however, you are unable to delete events at this time. The events created do delete after you stop the program. 
 However, due to time constraints and need for more research we were unable to figure out how to make table view clickable 
-in swift and therefore could not go to the display page of the event and its info. The code for the display is however 
-there and able to see that the clickable table view was our only issue.
+in swift and therefore could not go on to the display page of the event and its info. The code for the display is however 
+there and is able to be seen. Clickable table view was an issue that arose that was unable to be solved as we are stll learning the swift language.
