@@ -2,8 +2,8 @@
 Programming Languages Project
 
 Names: Alfonso, Castanos, Majid Aziz, & Matthew Schwab  
-ID: 2283681, 2283708,  
-Emails: aziz112@mail.chapman.edu, casta145@mail.chapman.edu,  
+ID: 2283681, 2283708, 
+Emails: aziz112@mail.chapman.edu, casta145@mail.chapman.edu, schwa184@mail.chapman.edu  
 Project: Swift Program
 
 Description: Calendar program that lets you create events and view them. Also able to look ahead on the 
